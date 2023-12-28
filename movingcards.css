@@ -1,0 +1,30 @@
+.card{
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+    min-height: 25em !important
+    
+   
+}
+.card i{
+    margin-top: 30px;
+    
+        background: -webkit-linear-gradient(#00e0fe,#1107fe);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 54px;
+    
+
+}
+.card-content{
+    padding: 30px;
+    
+}
+.card{
+
+}
+.card-wrapper{
+padding-top: 20px;
+padding-bottom: 20px;
+}
